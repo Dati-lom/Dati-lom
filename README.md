@@ -1,4 +1,4 @@
-# Davit
+# Hi, I'm Davit
 
 Hello! I'm Backend Engineer (Frontent only in special occasions), Also teach python/Django at programming school Mziuri. Building products in Java/Spring working with microservices, and more fun(not really) stuff. Did CS degree in Kutaisi international University and worked as a TA for some time.
 
