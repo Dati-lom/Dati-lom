@@ -1,4 +1,4 @@
-# Davit Tunashvili
+# Davit
 
 Software developer based in Georgia. I build backend systems and teach programming.
 
@@ -42,4 +42,3 @@ I teach Python and Django at a programming school — covering fundamentals thro
 ## Elsewhere
 
 - [dati-lom](https://github.com/dati-lom) — personal projects
-- [liadatunashvili](https://github.com/liadatunashvili) — other work
